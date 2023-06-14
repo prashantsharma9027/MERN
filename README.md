@@ -1,2 +1,0 @@
-# MERN
-learning mern technology
